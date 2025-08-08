@@ -88,7 +88,7 @@ Pipeline orchestré avec agents Jenkins spécialisés :
 
 #### ✅ Frontend Pipeline - Succès
 
-https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167573043
+[https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167573043](https://github.com/adamKHTML/MyBank_deployement/issues/2#issue-3303741998)
 
 ```bash
 [Pipeline] Started by user Admin
@@ -103,7 +103,7 @@ https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167573043
 
 #### ✅ Backend Pipeline - Succès
 
-[![Backend Success](docs/images/backend-pipeline-success.png)](https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167580162)
+https://github.com/adamKHTML/MyBank_deployement/issues/3#issue-3303747368
 
 ```bash
 [Pipeline] Started by user Admin
@@ -125,7 +125,7 @@ https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167573043
 ERROR: invalid tag "argentikk/MyBank_backend": repository name must be lowercase
 ```
 
-https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167585681
+[https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167591242](https://github.com/adamKHTML/MyBank_deployement/issues/4#issue-3303752296)
 
 **Solution appliquée** :
 ```bash
@@ -146,8 +146,7 @@ Your requirements could not be resolved to an installable set of packages.
 Problem 1
 - Root composer.json requires ext-xml * -> it is missing from your system.
 ```
-https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167591242
-
+https://github.com/adamKHTML/MyBank_deployement/issues/5#issue-3303754847
 
 **Solution développée** :
 ```bash
