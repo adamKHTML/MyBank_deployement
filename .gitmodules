@@ -1,0 +1,12 @@
+[submodule "MyBank_Frontend"]
+	path = MyBank_Frontend
+	url = https://github.com/adamKHTML/MyBank_Frontend.git
+[submodule "MyBank_Backend"]
+	path = MyBank_Backend
+	url = https://github.com/adamKHTML/MyBank_Backend.git
+[submodule "MyBank_backend"]
+	path = MyBank_backend
+	url = https://github.com/adamKHTML/MyBank_Backend.git
+[submodule "MyBank_frontend"]
+	path = MyBank_frontend
+	url = https://github.com/adamKHTML/MyBank_Frontend.git
