@@ -79,7 +79,9 @@ services:
 
 Pipeline orchestré avec agents Jenkins spécialisés :
 
-[![Jenkins Pipeline](docs/images/jenkins-pipeline-overview.png)](https://github.com/adamKHTML/MyBank_deployement/issues/1#issue-3303707662)
+<img width="1396" height="119" alt="Image" src="https://github.com/user-attachments/assets/dc9d9db2-587c-416e-b42b-5f820ba378ea" />
+
+
 
 - **MBReactAgent** : Build et déploiement Frontend
 - **MBSymfonyAgent** : Build et déploiement Backend
@@ -88,7 +90,10 @@ Pipeline orchestré avec agents Jenkins spécialisés :
 
 #### ✅ Frontend Pipeline - Succès
 
-[https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167573043](https://github.com/adamKHTML/MyBank_deployement/issues/2#issue-3303741998)
+<img width="1164" height="672" alt="Image" src="https://github.com/user-attachments/assets/36d652b9-9a4c-4402-af2f-ba0e88d07742" />
+
+
+
 
 ```bash
 [Pipeline] Started by user Admin
@@ -103,7 +108,7 @@ Pipeline orchestré avec agents Jenkins spécialisés :
 
 #### ✅ Backend Pipeline - Succès
 
-https://github.com/adamKHTML/MyBank_deployement/issues/3#issue-3303747368
+<img width="580" height="809" alt="Image" src="https://github.com/user-attachments/assets/da6ca1e7-d3c9-4e52-9fac-dac14d1a3210" /> 
 
 ```bash
 [Pipeline] Started by user Admin
@@ -125,7 +130,9 @@ https://github.com/adamKHTML/MyBank_deployement/issues/3#issue-3303747368
 ERROR: invalid tag "argentikk/MyBank_backend": repository name must be lowercase
 ```
 
-[https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167591242](https://github.com/adamKHTML/MyBank_deployement/issues/4#issue-3303752296)
+<img width="1333" height="773" alt="Image" src="https://github.com/user-attachments/assets/7320de03-b690-421e-8d00-dcc7b602415c" />
+
+
 
 **Solution appliquée** :
 ```bash
@@ -146,7 +153,7 @@ Your requirements could not be resolved to an installable set of packages.
 Problem 1
 - Root composer.json requires ext-xml * -> it is missing from your system.
 ```
-https://github.com/adamKHTML/MyBank_deployement/issues/5#issue-3303754847
+<img width="1496" height="874" alt="Image" src="https://github.com/user-attachments/assets/bb8094b3-8078-4eba-9633-881da482bd77" />
 
 **Solution développée** :
 ```bash
