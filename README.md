@@ -79,7 +79,7 @@ services:
 
 Pipeline orchestré avec agents Jenkins spécialisés :
 
-![Jenkins Pipeline](docs/images/jenkins-pipeline-overview.png)
+[![Jenkins Pipeline](docs/images/jenkins-pipeline-overview.png)](https://github.com/adamKHTML/MyBank_deployement/issues/1#issue-3303707662)
 
 - **MBReactAgent** : Build et déploiement Frontend
 - **MBSymfonyAgent** : Build et déploiement Backend
@@ -88,7 +88,7 @@ Pipeline orchestré avec agents Jenkins spécialisés :
 
 #### ✅ Frontend Pipeline - Succès
 
-![Frontend Success](docs/images/frontend-pipeline-success.png)
+https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167573043
 
 ```bash
 [Pipeline] Started by user Admin
@@ -103,7 +103,7 @@ Pipeline orchestré avec agents Jenkins spécialisés :
 
 #### ✅ Backend Pipeline - Succès
 
-![Backend Success](docs/images/backend-pipeline-success.png)
+[![Backend Success](docs/images/backend-pipeline-success.png)](https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167580162)
 
 ```bash
 [Pipeline] Started by user Admin
@@ -125,6 +125,8 @@ Pipeline orchestré avec agents Jenkins spécialisés :
 ERROR: invalid tag "argentikk/MyBank_backend": repository name must be lowercase
 ```
 
+https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167585681
+
 **Solution appliquée** :
 ```bash
 # Avant (incorrect)
@@ -144,6 +146,8 @@ Your requirements could not be resolved to an installable set of packages.
 Problem 1
 - Root composer.json requires ext-xml * -> it is missing from your system.
 ```
+https://github.com/adamKHTML/MyBank_deployement/issues/1#issuecomment-3167591242
+
 
 **Solution développée** :
 ```bash
